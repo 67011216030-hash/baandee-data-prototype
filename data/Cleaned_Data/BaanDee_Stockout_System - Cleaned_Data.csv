@@ -1,0 +1,10 @@
+SKU_ID,Product Name,Category,Unit Price,Available Qty,Supplier Name,Daily Burn Rate,Lead Time (Days),Days Left,Risk Status
+SKU-0001,BaanDee Item 1,Bathroom,299,5,Thai Home Supply,2,5,2.5,🔥 CRITICAL (เสี่ยงของขาด ต้องสั่งด่วน!)
+SKU-0002,BaanDee Item 2,Kitchen,199,9,Comfort Bedding,1,3,9,✅ SAFE (ปลอดภัย)
+SKU-0005,BaanDee Item 5,Bathroom,799,11,Kitchen Pro,0.2,2,55,✅ SAFE (ปลอดภัย)
+SKU-0006,BaanDee Item 6,Bedding,199,10,Home Decor Plus,2.5,2,4,🟡 MEDIUM (ความเสี่ยงปานกลาง เตรียมสั่งซื้อ)
+SKU-0007,BaanDee Item 7,Storage,799,39,Storage Expert,2,5,19.5,✅ SAFE (ปลอดภัย)
+SKU-0008,BaanDee Item 8,Bedding,199,32,Sleep Well Co.,16,5,2,🔥 CRITICAL (เสี่ยงของขาด ต้องสั่งด่วน!)
+SKU-0009,BaanDee Item 9,Kitchen,499,23,Kitchen Pro,6,2,3.8,🟡 MEDIUM (ความเสี่ยงปานกลาง เตรียมสั่งซื้อ)
+SKU-0010,BaanDee Item 10,Kitchen,299,36,Kitchen Pro,1,7,36,✅ SAFE (ปลอดภัย)
+SKU-0012,BaanDee Item 12,Bathroom,299,18,Thai Home Supply,9,4,2,🔥 CRITICAL (เสี่ยงของขาด ต้องสั่งด่วน!)

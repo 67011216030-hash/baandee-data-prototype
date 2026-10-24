@@ -1,0 +1,4 @@
+SKU_ID,Supplier Name,Burn Rate,Lead Time,Contract Date,Contact No,Quarantine Reason (สาเหตุที่กักกัน)
+SKU-0003,Bath Partners,-1,-5,Fri Jan 15 2027 00:00:00 GMT+0700 (เวลาอินโดจีน),02-555-6666,ค่าติดลบ/ศูนย์ผิดกฎธุรกิจ (Burn Rate/Lead Time <= 0)
+SKU-0004,Light & Co.,3,7,Tue May 04 2027 00:00:00 GMT+0700 (เวลาอินโดจีน),,ไม่มีเบอร์ติดต่อยืนยันซัพพลายเออร์
+SKU-0011,Bath Partners,2,3,Sat Jan 01 2028 00:00:00 GMT+0700 (เวลาอินโดจีน),,ไม่มีเบอร์ติดต่อยืนยันซัพพลายเออร์
