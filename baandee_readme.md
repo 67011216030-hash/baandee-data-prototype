@@ -212,10 +212,10 @@
 เพื่อความสะดวกในการประเมิน อาจารย์สามารถเข้าทดสอบระบบต้นแบบได้ผ่านลิงก์ด้านล่างนี้ครับ:
 
 1. **📊 Google Sheets (ระบบจัดการหลังบ้าน & Data Pipeline):** 
-   - [👉 คลิกที่นี่เพื่อเปิด Google Sheets] ( **[](https://docs.google.com/spreadsheets/d/1WC6IM18wBgBkv6bGwWm8P0dZap4EYGR635Ou0fGF6FA/edit?usp=sharing)** )
+   - [👉 คลิกที่นี่เพื่อเปิด Google Sheets] ( **[...เอาลิงก์ Google Sheets ของคุณมาวางแทนข้อความนี้...](https://docs.google.com/spreadsheets/d/1WC6IM18wBgBkv6bGwWm8P0dZap4EYGR635Ou0fGF6FA/edit?usp=sharing)** )
    - *หมายเหตุ 1: ตั้งค่าสิทธิ์เป็น Editor ไว้เรียบร้อยแล้วครับ*
    - *หมายเหตุ 2: ในการกดใช้เมนูครั้งแรก Google จะขึ้นเตือนความปลอดภัย ให้อาจารย์กด **Advanced (ขั้นสูง)** -> **Go to... (ไปที่...)** เพื่ออนุญาตให้สคริปต์ทำงานครับ*
 
 2. **🌐 BaanDee Stock Portal (หน้าเว็บสำหรับค้นหา/API):**
-   - [👉 คลิกที่นี่เพื่อเปิดหน้าเว็บ Web App] ( **[](https://script.google.com/macros/s/AKfycbwXu3PB_TMB2EBYrE9sPZjBRA2ibHPML8TN0kEEHObX5yhHb56Vru9rp4YWDtX0Y7HhnA/exec)** )
+   - [👉 คลิกที่นี่เพื่อเปิดหน้าเว็บ Web App] ( **[...เอาลิงก์ Web App ที่ลงท้ายด้วย /exec มาวางแทนข้อความนี้...](https://script.google.com/macros/s/AKfycbwXu3PB_TMB2EBYrE9sPZjBRA2ibHPML8TN0kEEHObX5yhHb56Vru9rp4YWDtX0Y7HhnA/exec)** )
    - *หมายเหตุ: เป็นระบบ Hybrid หากเข้าผ่านเบราว์เซอร์ปกติจะแสดงผลเป็นหน้า Web UI แต่หากแนบ Parameter `?sku=...` ระบบจะตอบกลับเป็น JSON สำหรับ API ครับ*
