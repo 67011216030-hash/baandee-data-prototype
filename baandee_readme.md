@@ -129,7 +129,6 @@
 │   └── main_app_script.js          # โค้ด Google Apps Script ทั้งหมด (Pipeline, GUI, API)
 ├── tests/
 │   └── test_results.md             # รายละเอียดและหลักฐานผลการทดสอบ 5 Test Cases
-├── .env.example                    # ตัวอย่างการตั้งค่า Environment / Web App Configuration
 ├── README.md                       # เอกสารอธิบายโครงงานฉบับสมบูรณ์
 └── AI_USE.md                       # เอกสารรายงานการใช้ AI ช่วยในการพัฒนาโครงงาน
 ```
