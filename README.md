@@ -198,7 +198,8 @@
 1. **📊 Google Sheets (ระบบจัดการหลังบ้าน & Data Pipeline):** 
    - [👉 คลิกที่นี่เพื่อเปิด Google Sheets] ( **[...Google Sheets ...](https://docs.google.com/spreadsheets/d/1WC6IM18wBgBkv6bGwWm8P0dZap4EYGR635Ou0fGF6FA/edit?usp=sharing)** )
    - *หมายเหตุ 1: ตั้งค่าสิทธิ์เป็น Editor ไว้เรียบร้อยแล้วครับ*
-   - *หมายเหตุ 2: ในการกดใช้เมนูครั้งแรก Google จะขึ้นเตือนความปลอดภัย ให้อาจารย์กด **Advanced (ขั้นสูง)** -> **Go to... (ไปที่...)** เพื่ออนุญาตให้สคริปต์ทำงานครับ*
+   - *หมายเหตุ 2: - กรุณาเปิดลิงก์ Google Sheets ผ่านหน้าต่างไม่ระบุตัวตน (Incognito Mode) และล็อกอินด้วยบัญชีเดียวเท่านั้น*
+   - *หมายเหตุ 3: ในการกดใช้เมนูครั้งแรก Google จะขึ้นเตือนความปลอดภัย ให้อาจารย์กด **Advanced (ขั้นสูง)** -> **Go to... (ไปที่...)** เพื่ออนุญาตให้สคริปต์ทำงานครับ*
 
 2. **🌐 BaanDee Stock Portal (หน้าเว็บสำหรับค้นหา/API):**
    - [👉 คลิกที่นี่เพื่อเปิดหน้าเว็บ Web App] ( **[...Web App ...](https://script.google.com/macros/s/AKfycbwXu3PB_TMB2EBYrE9sPZjBRA2ibHPML8TN0kEEHObX5yhHb56Vru9rp4YWDtX0Y7HhnA/exec)** )
